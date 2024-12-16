@@ -1,7 +1,11 @@
 **/.vscode/*
 **/.idea/*
+
 **/build/*
+
+
 **/*.spec
 **/*.py
 **/*.exe
+
 **/*.zip
