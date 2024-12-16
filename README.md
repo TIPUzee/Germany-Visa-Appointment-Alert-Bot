@@ -9,7 +9,7 @@ provides real-time alerts through audio notifications when appointments become a
 
 ## Bad News
 
-All the features of this bot will be available after the 17th of December 2024.
+All the features of this bot will be available after the 18th of December 2024.
 Due to some reasons, it is requested to not make this bot available to the public until the mentioned date.
 
 ---
